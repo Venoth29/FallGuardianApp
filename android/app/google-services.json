@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "589366281031",
+    "project_id": "fallguardianapp",
+    "storage_bucket": "fallguardianapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589366281031:android:84955753a7fc5dec2c4262",
+        "android_client_info": {
+          "package_name": "com.fallguardianapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589366281031-9s23urg6j669bks03t0oi1q4av2e895r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxt_DoEK_36PbawLq6IHTCIeGW9oyAOBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589366281031-9s23urg6j669bks03t0oi1q4av2e895r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "589366281031-157b9ik38rdkr8o8vlvljg2k43pirqhp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fallguardianapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
